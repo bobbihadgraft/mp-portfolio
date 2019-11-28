@@ -11,24 +11,24 @@ html {
 body {
   overflow-x: hidden;
 font-family: 'Overpass', sans-serif;
-color: #ff7043;
+color: #ffee58;
 }
 
 p {
-  color: ff7043;
+  color: ffee58;
   line-height: 1.75;
 }
 
 a {
-  color: #ffe0b2;
+  color: #0081cb;
 }
 
 a:hover {
-  color: #ff7043;
+  color: #ffee58;
 }
 
 .text-primary {
-  color: #ffe0b2 !important;
+  color: #0081cb !important;
 }
 
 
@@ -51,7 +51,7 @@ color: black;
 
 .page-section {
   padding: 100px 0;
-  color: #ff7043;
+  color: #ffee58;
 }
 
 .page-section h2.section-heading {
@@ -59,7 +59,7 @@ color: black;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 15px;
-  color: #ff7043;
+  color: #ffee58;
 }
 
 .page-section h3.section-subheading {
@@ -69,7 +69,7 @@ color: black;
   margin-bottom: 75px;
   text-transform: none;
 font-family: 'Overpass', sans-serif;
-color: #ff7043;
+color: #ffee58;
 }
 
 @media (min-width: 768px) {
@@ -79,7 +79,7 @@ color: #ff7043;
 }
 
 ::-moz-selection {
-  background: #ffe0b2;
+  background: #0081cb;
   text-shadow: none;
 }
 
@@ -88,7 +88,7 @@ color: #ff7043;
   text-shadow: none;
 }
 
-img  src="img" alt="header-xmas.jpg"> {
+img  src="img" alt="hut-lights-crop.jpg"> {
   transform: scaleX(-1);
 }
 
@@ -104,7 +104,7 @@ img::-moz-selection {
 .btn {
 font-family: 'Abril Fatface', cursive;
   font-weight: 700;
-  color: #ff7043;
+  color: #ffee58;
 }
 
 .btn-xl {
@@ -113,8 +113,8 @@ font-family: 'Abril Fatface', cursive;
 }
 
 .btn-primary {
-  background-color: #ffe0b2;
-  border-color: #ffe0b2;
+  background-color: #0081cb;
+  border-color: #0081cb;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -128,7 +128,7 @@ font-family: 'Abril Fatface', cursive;
 }
 
 #mainNav {
-  background-color: #ff7043;
+  background-color: #ffee58;
 }
 
 #mainNav .navbar-toggler {
@@ -136,19 +136,19 @@ font-family: 'Abril Fatface', cursive;
   right: 0;
   padding: 13px;
   text-transform: uppercase;
-  color:#ff7043;
+  color:#ffee58;
   border: 0;
   background-color: #0031ca;
 font-family: 'Abril Fatface', cursive;
 }
 
 #mainNav .navbar-brand {
-  color: #ffe0b2;
+  color: #ffee58;
 font-family: 'Abril Fatface', cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #ffe0b2;
+  color: #0081cb;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -156,12 +156,12 @@ font-family: 'Abril Fatface', cursive;
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: #ff7043;
+  color: #0031ca;
 font-family: 'Abril Fatface', cursive;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffe0b2;
+  color: #ffee58;
 }
 
 @media (min-width: 992px) {
@@ -182,19 +182,19 @@ font-family: 'Abril Fatface', cursive;
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #ffe0b2;
+    background-color: black;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
     padding: 12px 0;
-    color: #ff7043;
+    color: #ffee58;
   }
 }
 
 header.masthead {
   text-align: center;
-  color: #ff7043;
-  background-image: url("../img/header-xmas.jpg");
+  color: #ffee58;
+  background-image: url("../img/hut-lights-crop.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -204,7 +204,7 @@ header.masthead {
 header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
-  color: #ff7043;
+  color: #ffee58;
 }
 
 header.masthead .intro-text .intro-lead-in {
@@ -213,7 +213,7 @@ header.masthead .intro-text .intro-lead-in {
   line-height: 22px;
   margin-bottom: 25px;
 font-family: 'Overpass', sans-serif;
-color: #ff7043;
+color: #ffee58;
 }
 
 header.masthead .intro-text .intro-heading {
@@ -221,7 +221,7 @@ header.masthead .intro-text .intro-heading {
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
-  color: #ff7043;
+  color: #ffee58;
 font-family: 'Abril Fatface', cursive;
 }
 
@@ -249,7 +249,7 @@ font-family: 'Abril Fatface', cursive;
 .service-heading {
   margin: 15px 0;
   text-transform: none;
-  color: #ff7043;
+  color: #ffee58;
 }
 
 #portfolio .portfolio-item {
@@ -286,7 +286,7 @@ font-family: 'Abril Fatface', cursive;
   height: 20px;
   margin-top: -12px;
   text-align: center;
-  color: #ff7043;
+  color: #ffee58;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
@@ -303,7 +303,7 @@ font-family: 'Abril Fatface', cursive;
   margin: 0 auto;
   padding: 25px;
   text-align: center;
-  background-color: #ffe0b2;
+  background-color: #0081cb;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -464,10 +464,10 @@ font-family: 'Overpass', sans-serif;
   height: 80px;
   margin-left: 0;
   text-align: center;
-  color: #ff7043;
-  border: 7px solid #ffe0b2;
+  color: #ffee58;
+  border: 7px solid #0081cb;
   border-radius: 100%;
-  background-color: #ffe0b2;
+  background-color: #0081cb;
 }
 
 .timeline > li .timeline-image h4 {
@@ -611,7 +611,7 @@ font-family: 'Overpass', sans-serif;
 
 section#contact {
   background-color: #000000   ;
-  background-image: url("https://source.unsplash.com/random/700x400");
+  background-image: url("../img/tree-lights-thumbnail.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -644,7 +644,7 @@ section#contact .form-control:focus {
 
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
-  color: #ffe0b2;
+  color: #0081cb;
 font-family: 'Abril Fatface', cursive;
 }
 
@@ -669,7 +669,7 @@ font-family: 'Abril Fatface', cursive;
 .footer {
   padding: 25px 0;
   text-align: center;
-  color: #ff7043;
+  color: #0081cb;
 }
 
 .footer span.copyright {
