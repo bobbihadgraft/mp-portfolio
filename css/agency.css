@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 600px;
 font-family: 'Overpass', sans-serif;
 color: black;
 }
@@ -55,7 +55,7 @@ color: black;
 }
 
 .page-section h2.section-heading {
-  font-size: 75px;
+  font-size: 50px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 15px;
@@ -202,7 +202,7 @@ header.masthead {
 }
 
 header.masthead .intro-text {
-  padding-top: 150px;
+  padding-top: 100px;
   padding-bottom: 100px;
   color: #ffee58;
 }
