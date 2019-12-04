@@ -5,7 +5,7 @@
  */
 
 html {
-   background-color:black;
+   background-color:#0031ca;
  }
 
 body {
@@ -16,32 +16,54 @@ color: #ffee58;
 
 p {
   color: black;
+  font-size: 30px;
   line-height: 1.75;
 }
 
 a {
-  color: #0081cb;
+  color: blue;
+  font-size: 30px;
 }
 
 a:hover {
-  color: #0081cb;
+  color: black;
 }
 
 .text-primary {
-  color: #0081cb !important;
+  font-weight: 400;
+  color: #0031ca !important;
 }
 
 
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
+  color: #0031ca;
+  font-weight: 400;
 }
 
-h2,
-h3,
-h4,
+h2  {
+  margin: 0;
+  padding: 10px 0;
+  color: #0031ca;
+  font-weight: 20px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h3{
+  font-size: 40px;
+  font-weight: 800px;
+font-family: 'Overpass', sans-serif;
+color: black;
+}
+
+h4{
+  font-size: 40px;
+  font-weight: 600px;
+font-family: 'Overpass', sans-serif;
+color: black;
+}
+
 h5,
 h6 {
   font-weight: 600px;
@@ -258,6 +280,7 @@ font-family: 'Abril Fatface', cursive;
 }
 
 #portfolio .portfolio-item .portfolio-link {
+    background-color: black;
   position: relative;
   display: block;
   max-width: 400px;
@@ -279,6 +302,7 @@ font-family: 'Abril Fatface', cursive;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+    background-color: black;
   font-size: 20px;
   position: absolute;
   top: 50%;
@@ -374,7 +398,6 @@ font-family: 'Overpass', sans-serif;
   width: 75px;
   height: 75px;
   cursor: pointer;
-  background-color: #000000  ;
 }
 
 .portfolio-modal .close-modal:hover {
@@ -384,22 +407,22 @@ font-family: 'Overpass', sans-serif;
 .portfolio-modal .close-modal .lr {
   /* Safari and Chrome */
   z-index: 1051;
-  width: 1px;
+  width: 10px;
   height: 75px;
   margin-left: 35px;
   /* IE 9 */
   transform: rotate(45deg);
-  background-color: #000000  ;
+  background-color: red  ;
 }
 
 .portfolio-modal .close-modal .lr .rl {
   /* Safari and Chrome */
   z-index: 1052;
-  width: 1px;
+  width: 10px;
   height: 75px;
   /* IE 9 */
   transform: rotate(90deg);
-  background-color: #000000  ;
+  background-color: red  ;
 }
 
 .timeline {
