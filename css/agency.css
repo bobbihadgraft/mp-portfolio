@@ -112,8 +112,8 @@ color: #0031ca;
 }
 
 blink {
-  -webkit-animation: 0.5s linear infinite condemned_blink_effect; // for Safari 4.0 - 8.0
-  animation: 0.5s linear infinite condemned_blink_effect;
+  -webkit-animation: 1s linear infinite condemned_blink_effect; // for Safari 4.0 - 8.0
+  animation: 1s linear infinite condemned_blink_effect;
   color: red;
     font-size: 30px;
   font-weight: 20px;
