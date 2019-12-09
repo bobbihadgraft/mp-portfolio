@@ -16,12 +16,12 @@ color: #ffee58;
 
 p {
   color: black;
-  font-size: 30px;
+  font-size: 20px;
   line-height: 1.75;
 }
 
 a {
-  color: blue;
+  color: #0031ca;
   font-size: 30px;
 }
 
@@ -61,7 +61,7 @@ h4{
   font-size: 40px;
   font-weight: 600px;
 font-family: 'Overpass', sans-serif;
-color: black;
+color: white;
 }
 
 h5,
@@ -81,7 +81,7 @@ color: black;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 15px;
-  color: #0081cb;
+  color: #0031ca;
 }
 
 .page-section h3.section-subheading {
@@ -91,7 +91,7 @@ color: black;
   margin-bottom: 75px;
   text-transform: none;
 font-family: 'Overpass', sans-serif;
-color: #0081cb;
+color: #0031ca;
 }
 
 @media (min-width: 768px) {
@@ -101,7 +101,7 @@ color: #0081cb;
 }
 
 ::-moz-selection {
-  background: #0081cb;
+  background: #0031ca;
   text-shadow: none;
 }
 
@@ -135,8 +135,8 @@ font-family: 'Abril Fatface', cursive;
 }
 
 .btn-primary {
-  background-color: #0081cb;
-  border-color: #0081cb;
+  background-color: #0031ca;
+  border-color: #0031ca;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -170,7 +170,7 @@ font-family: 'Abril Fatface', cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #0081cb;
+  color: #0031ca;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -327,7 +327,7 @@ font-family: 'Abril Fatface', cursive;
   margin: 0 auto;
   padding: 25px;
   text-align: center;
-  background-color: #0081cb;
+  background-color: #0031ca;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -488,9 +488,9 @@ font-family: 'Overpass', sans-serif;
   margin-left: 0;
   text-align: center;
   color: #ffee58;
-  border: 7px solid #0081cb;
+  border: 7px solid #0031ca;
   border-radius: 100%;
-  background-color: #0081cb;
+  background-color: #0031ca;
 }
 
 .timeline > li .timeline-image h4 {
@@ -667,7 +667,7 @@ section#contact .form-control:focus {
 
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
-  color: #0081cb;
+  color: #0031ca;
 font-family: 'Abril Fatface', cursive;
 }
 
@@ -692,7 +692,7 @@ font-family: 'Abril Fatface', cursive;
 .footer {
   padding: 25px 0;
   text-align: center;
-  color: #0081cb;
+  color: #0031ca;
 }
 
 .footer span.copyright {
