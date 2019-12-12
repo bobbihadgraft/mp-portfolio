@@ -65,7 +65,14 @@ font-family: 'Overpass', sans-serif;
 color: white;
 }
 
-h5,
+h5 {
+  color: red;
+    font-size: 30px;
+  font-weight: 20px;
+
+  font-family: 'Abril Fatface', cursive;
+}
+
 h6 {
   font-weight: 600px;
 font-family: 'Overpass', sans-serif;
@@ -111,15 +118,7 @@ color: #0031ca;
   text-shadow: none;
 }
 
-blink {
-  -webkit-animation: 1s linear infinite condemned_blink_effect; // for Safari 4.0 - 8.0
-  animation: 1s linear infinite condemned_blink_effect;
-  color: red;
-    font-size: 30px;
-  font-weight: 20px;
 
-  font-family: 'Abril Fatface', cursive;
-}
 @-webkit-keyframes condemned_blink_effect { // for Safari 4.0 - 8.0
   0% {
     visibility: hidden;
